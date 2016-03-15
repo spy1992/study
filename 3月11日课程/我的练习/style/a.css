@@ -1,0 +1,278 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+#header{
+	height:402px;
+}
+.toop1{
+	width:940px;
+	height:116px;
+	margin:0 auto;
+}
+.top{
+	height:134px;
+}
+@font-face{
+	font-family: "Trebuchet MS";
+	src:url(../font/trebuc.ttf);
+}
+
+@font-face {font-family: "Myriad Pro";src:url(../font/trebuc.ttf);}
+
+.top1{
+	height:18px;
+	background-image:url(../images/top1.gif);
+	background-repeat: repeat; 
+}
+.top2{
+	height:116px;
+	background-image:url(../images/bg22.gif);
+	background-repeat: repeat; 
+}
+.top2 p{
+	color:#aa462e;
+	font-family: "Trebuchet MS";
+	font-size: 32px;
+	line-height: 116px;
+	float:left;
+	margin-right: 180px;
+}
+.list1 {
+	height:116px;
+}
+.list li{
+	list-style: none;
+	float:left;
+	font-family:"Myriad Pro" ;
+	line-height: 116px;
+	margin-left: 37px;
+	font-weight: bold;
+}
+.list span{
+	color:#824940;
+}
+.list li:hover{
+	border-bottom: 4px solid #c90302;
+	height:67px;
+}
+.banner{
+	height:268px;
+}
+.banner1{
+	height:224px;
+	background-image:url(../images/banner.gif); 
+	background-repeat: repeat;
+}
+.reg{
+	width:940px;
+	height:224px;
+	margin:0 auto;
+	position: relative;
+}
+	
+}
+.pic1{
+	width:493px;
+	height:224px;
+}
+.pic {
+	width:410px;
+	height:224px;
+	background-image:url(../images/3.png);
+	background-repeat: no-repeat;
+	position: absolute;
+	top:-15px;
+	left:526px; 
+}
+.banner2{
+	height:44px;
+	background-image:url(../images/黑背景2.gif); 
+	background-repeat: repeat;
+}
+.ban{
+	color: #f2e3a8;
+	font-family: "Trebuchet MS";
+	font-size: 20px;
+	padding-top: 36px;
+	margin-bottom:32px ;
+	margin-left: 14px;
+}
+.ban span{
+	background-image:url(../images/下划线.gif); 
+	background-repeat: no-repeat;
+	background-position: bottom;
+}
+.ban1{
+	color:white;
+	height:106px;
+	font-family: "Trebuchet MS";
+	font-size: 12px;
+	line-height: 20px;
+	margin-left: 14px;
+}
+.ban1 span{
+	display:block;
+}
+.banner2{
+	height:44px;
+	
+}
+.reg2{
+	width:940px;
+	height:44px;
+	margin:0 auto;
+}
+.type{
+	height:44px;
+	margin-left: 14px;
+}
+.type li{
+	list-style: none;
+	float:left;
+	color:white;
+	font-family: "Trebuchet MS";
+	margin-right: 31px;
+	text-align: center;
+}
+.type li img{
+	position:;
+}
+
+.toop2{
+	width:940px;
+	height:270px;
+	margin:0 auto;
+}
+.box{
+	width:284px;
+	height:270px;
+	float:left;
+	margin-right:22px;	
+}
+.box h3{
+	font-family: "Trebuchet MS";
+	margin-bottom:19px ;
+	border-bottom: 1px solid #e9ebf7;
+}
+ .box h3 span{
+	color:#7b3128;
+}
+.box p{
+	color:#675853;
+	font-size: 5px;
+	font-family:"Myriad Pro" ;
+	line-height: 23px;
+}
+.box p span{
+	display:block;
+}
+.box2{
+	width:284px;
+	height:270px;
+	float:left;
+	margin-right: 22px;
+}
+.box2 h3{
+	font-family: "Trebuchet MS";
+	margin-bottom:19px ;
+	border-bottom: 1px solid #e9ebf7;
+}
+.box2 h3 span{
+	color:#7b3128;
+}
+.box2 p{
+	color:#675853;
+	font-size: 5px;
+	font-family:"Myriad Pro" ;
+	line-height: 23px;
+	
+}
+.box2 p span{
+	display:block;
+}
+.box3{
+	width:284px;
+	height:270px;
+	float:left;
+}
+.box3 h3{
+	font-family: "Trebuchet MS";
+	margin-bottom:19px ;
+	border-bottom: 1px solid #e9ebf7;
+}
+.box3 h3 span{
+	color:#7b3128;
+}
+.box3 p{
+	color:#675853;
+	font-size: 5px;
+	font-family:"Myriad Pro" ;
+	line-height: 23px;	
+}
+.box3 .def1 span{
+	display: block;
+} 
+.toop2{
+	width:906px;
+	height:270px;
+	margin:0 auto;
+	margin-top: 35px;
+	border-bottom: 1px solid #dfdfdf;	
+}
+.def{
+	width:277px;
+	height:81px;
+	background-color:#f2f2f2; 
+	border:1px solid white;
+	margin-top: 29px;
+}
+.def p{
+	margin-left: 8px;
+}
+.def p span{
+	color:#932f00;
+}
+#footer{
+	height:73px;
+}
+.fot{
+	width:326px;
+	height:73px;
+	float:left;
+	margin-left: 14px;
+	
+}
+.fot p{
+	
+	font-family:"Myriad Pro" ;
+	font-size: 10px;
+	margin-top: 30px;
+	
+}
+.fot p span{
+	color:#949494;
+	border-bottom: 1px solid #949494;
+}
+.fot2{
+	width:316px;
+	height:73px;
+	float:right;
+	
+}
+.fot2 p{
+	font-family:"Myriad Pro" ;
+	font-size: 10px;
+	margin-top: 8px;
+	margin-left: 25px;
+}
+.fot2 p span{
+	color:#949494;
+	border-bottom: 1px solid #949494;
+}
+.toop3{
+	width:940px;
+	height:73px;
+	margin:0 auto;
+	
+}

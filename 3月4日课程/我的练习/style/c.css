@@ -1,0 +1,251 @@
+*{
+		margin:0px;
+		padding:0px;
+	}
+	#header{
+		width:930px;
+		height:482px;
+		margin:0 auto;
+		margin-bottom: 24px;
+	}
+	#container{
+		width:930px;
+		margin:0 auto;
+	}
+	#top{
+		width:930px;
+		height:102px;	
+	}
+	#logo{
+		width:107px;
+		height:77px;
+		margin-top: 8px;
+		margin-bottom: 18px;
+		float:left;
+	}
+	.banner{
+		width:930px;
+		height:380px;
+		background-image:url(../images/banner.jpg);
+	}
+
+	#nav{
+		width:460px;
+		height:102px;
+		float:left;
+		font-family: Tahoma;
+	}
+	#search{
+		width:363px;
+		height:102px;
+		float:left;
+	}
+	.jess li{
+		list-style: none;
+		margin-left: 30px;
+		margin-top: 35px;
+		margin-bottom: 40px;
+		float:left;
+	}
+	.jess img{
+		width:7px;
+		height:5px;
+		float:left;
+		padding-top: 59px;
+	}
+	.jess span{
+		display:block;
+	}
+	.eer{
+	
+		height: 32px;
+		float:right;
+	}
+	.type li{
+		height:32px;
+		list-style: none;
+		float:left;
+		font-size: 1px;
+		margin-top:12px;
+		margin-bottom:4px;
+		color: #00f;
+		font-family: Tahoma;
+	}	
+	.yue{
+
+		height:24px;
+		clear:both;
+		float:right;
+		margin-bottom: 8px;
+	}
+	.yue1{
+	
+		height:15px;
+		float:right;
+		font-family: Tahoma;
+
+	}
+	#oop{
+		width:930px;
+		height:285px;	
+	}
+	#oop2{
+		width:930px;
+		height:222px;
+		border:1px solid #cacaca;
+	}
+
+	#shopping{
+		width:302px;
+		height: 285px;
+		float:left;
+		margin-right: 9px;
+		border:1px solid #cacaca;
+	}
+	h2{
+		margin-left: 23px;
+		margin-top: 12px;
+		margin-bottom: 10px;
+		font-size: ;
+	}
+	#shopping .oil li{
+		list-style: none;
+		margin-left: 35px;
+		font-size: 11px;
+		font-family: Tahoma;
+
+	}
+	#spp{
+		width:302px;
+		height: 285px;
+		float:left;
+		margin-right: 9px;
+		border:1px solid #cacaca;
+	}
+	#spp .oil1 li{
+		list-style: none;
+		margin-left:10px ;
+		font-size: 11px;
+		font-family: Tahoma;
+	}
+	#spp2{
+		width:302px;
+		height: 285px;
+		float:left;
+		border: 1px solid #cacaca;
+		}
+	#spp2 .oil2 li{
+		margin-left: 40px;
+		list-style: none;
+		font-size: 11px;
+		border-bottom: 1px solid black;
+		margin-bottom: 20px;
+		font-family: Tahoma;
+	}
+	.oil3 li{
+		margin-left: 40px;
+		list-style: none;
+		font-size: 10px;
+		font-family: Tahoma;
+	}
+	.oil2 li span{
+		display:block;
+	}
+	.label{
+		width:930px;
+		height:47px;
+	}
+	.label1{
+		width:212px;
+		height:20px;
+		margin-top: 13px;
+		margin-bottom: 14px;
+		float:left;
+		margin-right: 649px;
+	}
+	.label2{
+		width:59px;
+		height:17px;
+		margin-top: 14px;
+		margin-bottom: 16px;
+		float:left;
+		font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+
+	}
+	#sr1{
+		width:164px;
+		height:222px;
+		float:left;
+		clear: both;
+		margin-right: 22px;
+		margin-left:22px;
+		font-family: Tahoma;
+	}
+	.tt li span{
+		display:block;
+	}
+	#sr2{
+		width:164px;
+		height:222px;
+		float:left;
+		margin-right: 22px;
+		font-family: Tahoma;
+
+	}
+	#sr3{
+		width:164px;
+		height:222px;
+		float:left;
+		margin-right: 22px;
+		font-family: Tahoma;
+	}
+	#sr4{
+		width:164px;
+		height:222px;
+		float:left;
+		margin-right: 22px;
+		font-family: Tahoma;
+		
+	}
+	#sr4 h3{
+		
+	}
+	#sr5{
+		width:164px;
+		height:222px;
+		float:left;
+		font-family: Tahoma;
+	}
+
+	.tt li{
+		list-style:none ;
+		margin-left:10px ;
+		font-size: 15px;
+
+	}
+	.tt1{
+		list-style:none;
+		font-size: 15px;	
+	}
+	.tt2{
+		list-style:none ;
+		font-size: 15px;
+	}
+	.que{
+		list-style: none;
+		font-size: 15px;
+	}
+	.que2{
+		list-style: none;
+		font-size: 15px;	
+	}
+	#footer{
+		width:930px;
+		height:122px;
+		text-align: center;
+		color:#00f;
+		font-size: 1px;
+		margin: 0 auto;
+		margin-top: 33px;
+		font-family: Tahoma;
+	}

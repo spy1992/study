@@ -1,0 +1,63 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+#header{
+	width:930px;
+	height:482px;
+	margin:0 auto;	
+}
+.top{
+	height:102px;
+}
+ .logo{
+	width:107px;
+	height:77px;
+	margin-top:8px;
+	margin-bottom: 18px;	
+	float:left;
+}
+ .banner{
+	width:930px;
+	height:380px;
+	background-image: url(../images/banner.jpg);
+	
+}
+.nav{
+	width:470px;
+	height:102px;
+	float:left;
+	
+}
+.type span{
+	display:block;
+}
+.type li{
+	margin-top: 50px;
+	margin-bottom: 27px;
+	margin-left: 30px;
+	list-style: none;
+	float:left;
+	font-family:Tahoma, Geneva, sans-serif;
+
+}
+.serch{
+	width:319px;
+	height:102px;
+	float:left;
+	
+}
+.scr li{
+	height:22px;
+	list-style: none;
+	float:left;
+}
+.scr1{
+	list-style: none;
+	height:36px;
+	float:left;
+}
+.scr2{
+	height:44px;
+	float:left;
+}

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<style type="text/css">
+	*{
+		margin:0px;
+		padding:0px;
+	}
+	#pic{
+		width:400px;
+		height:400px;
+	}
+	.pic2 li{
+		width:20px;
+		height:20px;
+		list-style: none;
+		line-height: 20px;
+		text-align: center;
+		border:1px solid red;
+		float:left;
+		cursor: pointer;
+	}
+	</style>
+</head>
+<body>
+	<img id="pic"src="1.jpg">
+	<ul class="pic2">
+		<li class"aa">1</li>
+		<li class="bb">2</li>
+		<li class="cc">3</li>
+		<li class="dd">4</li>
+	</ul>
+	<script src="js/jquery-1.11.1.js"></script>
+	<script type="text/javascript">
+	$(".aa").click(function(){
+		$("#pic").attr("src","1.jpg");
+	})
+	$(".bb").click(function(){
+		$("#pic").attr("src","2.jpg");
+	})
+	$(".cc").click(function(){
+		$("#pic").attr("src","3.jpg");
+	})
+	$(".dd").click(function(){
+		$("#pic").attr("src","4.jpg");
+	})
+	</script>
+</body>
+</html>

@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<style type="text/css">
+	.type{
+		height: 100px;
+		border:1px solid #f00;
+	}
+	 a{
+		margin-left: 130px;
+	}
+	a{
+		display: block;
+		/*行级元素转换成块元素具有块元素的特性*/
+		width:100px;
+		height:100px;
+		border:1px solid #f00;
+	}
+	.line{
+		display:inline;
+		/*块元素转换成行级元素具有其特性*/
+		border: 1px solid #0f0;
+	}
+	.ss{
+		display: inline-block;
+		/*块元素转换成内联块元素*/
+		width:200px;
+		height:100px;
+		border: 1px solid #00f;
+	}
+	.ee{
+		display:none;
+		/*隐藏元素*/
+	}
+	</style>
+</head>
+<body>
+	<!-- 块元素独立成行，可以设置宽高 -->
+	<div class="type">
+	</div>
+	<!-- 行级元素不能设置宽高，不独立成行，没有上下边距 -->
+	<a href="">这是一个链接</a>
+	<a href="">这又是一个链接</a>
+	<div class="line">aaaaaaaa</div>
+	<div class="line">bbbbb</div>
+	<div class="ss">111111</div>
+	<div class="ss">22222</div>
+	<div class="ee">bbbbggghhii</div>
+</body>
+</html>

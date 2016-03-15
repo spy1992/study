@@ -1,0 +1,47 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+#header{
+	height:721px;
+}
+#toop1{
+	width:1078px;
+	height:721px;
+	margin:0 auto;
+	border:1px solid red;
+}
+#top{
+	width:1078px;
+	height:80px;
+}
+.logo{
+	width:179px;
+	height:80px;
+	margin-left:72px ;
+	margin-right: 42px;
+	float:left;
+}
+@font-face{
+	font-family:Helvetica;
+	src:url(../font/Helvetica.otf);
+}
+.nav{
+
+	height:80px;
+	float:left;
+}
+.list li{
+	height:48px;
+	font-family:Helvetica;
+	font-size: 18px;
+	list-style: none;
+	float:left;
+	padding-right: 28px;
+	margin-top: 30px;
+	font-weight: bold;
+}
+.list li:hover{
+	border-bottom: 4px solid black;
+	height:25px;
+}

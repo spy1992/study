@@ -1,0 +1,187 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+#header{
+	height:501px;	
+}
+#containter{
+	height:497px;
+	margin:0 auto;
+}
+.top{
+	
+	height:101px;
+	margin:0 auto;
+	}
+.blank{
+	height:70px;
+	background-color:#0085c3;
+	}
+#logo{
+	height:70px;
+	float:left;
+	margin-left: 190px;
+}
+#nav{
+	height:70px;
+	float:left;
+}
+.type li{
+	height:70px;
+	list-style: none;
+	margin-top: 26px;
+	margin-left: 29px;
+	margin-bottom:28px ;
+	float:left;
+	color:white;
+}
+.search{
+	float:left;
+	margin-left:190px;
+	margin-top: 16px;
+	margin-bottom: 16px;
+}
+.scr{
+	height:30px;
+	margin-left: 190px;	
+}
+.scr p{
+	margin-top: 10px;
+	float:left;
+}
+.scr1{
+	margin-left: 600px;
+	color:blue;
+}
+#banner img{
+	width:925px;
+	height:380px;
+	margin-left: 205px;
+}
+.ass{
+	width:930px;
+	height:289px;
+	margin-bottom: 8px;
+	margin-left:205px;
+}
+.title1{
+	width:300px;
+	height:289px;
+	border:1px solid #cccccc;
+	
+	margin-right: 10px;
+	float:left;
+}
+ h2{
+	margin-left: 21px;
+}
+.title1 li{
+	list-style: none;
+	font-size: 10px;
+	margin-left: 5px;
+}
+.title2{
+	width:300px;
+	height:289px;
+	border:1px solid #cccccc;
+	float:left;
+	margin-right: 10px;
+}
+.title2 li{
+	list-style: none;
+	font-size: 10px;
+	margin-left: 5px;
+}
+.title3{
+	width:300px;
+	height:289px;
+	border:1px solid #cccccc;
+	float:left;
+}
+.title3 li{
+	list-style: none;
+	font-size: 10px;
+	margin-left: 5px;
+}
+.title3 li span{
+	display:block;
+}
+.oop{
+	height:208px;
+	background-color: #0085c3;
+	margin-top:8px ;
+}
+h4{
+	margin-top:33px ;
+	color:white;
+}
+.op1{
+	
+	float:left;
+	margin-right: 70px;
+	padding-left: 185px;
+
+}
+.list1 li{
+	list-style: none;
+	font-size: 10px;
+	color:white;
+}
+.op2{
+	
+	float:left;
+	margin-right: 70px;
+}
+.list2 li{
+	list-style: none;
+	font-size: 10px;
+	color:white;
+}
+.op3{
+	
+	float:left;
+	margin-right: 70px;
+}
+.list3 li{
+	list-style: none;
+	font-size: 10px;
+	color:white;
+}
+.op4{
+	
+	float:left;
+	margin-right: 70px;
+}
+.list4 li{
+	list-style: none;
+	font-size: 10px;
+	color:white;
+}
+.flag{
+	float:left;
+	margin-right: 114px;
+	margin-top: 29px;
+	padding-left: 60px;
+	color:white;
+}
+#footer{
+	height:155px;
+	background-color: #0085c3;
+	color:white;
+}
+#footer p{
+	margin-left:362px;
+}
+ .foot2{
+	margin-right: 28px;
+	margin-left: 548px;
+	float:left;
+}
+.foot3{
+	float:left;
+}
+
+
+
+
